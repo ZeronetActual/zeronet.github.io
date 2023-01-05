@@ -14,7 +14,7 @@ h1 {
   color: brown;
 }
 body {
-  font-family: Georgia;
+  font-family: 'Space Mono';
   background-image: url('https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
 }
 h2{
