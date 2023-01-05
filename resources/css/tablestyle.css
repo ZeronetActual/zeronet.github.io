@@ -46,6 +46,10 @@ li {
   color: #88CCF1;
 }
 
+a:hover
+{
+  color:darkorange;
+}
 /* Table */
 
 table {
