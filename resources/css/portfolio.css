@@ -1,5 +1,5 @@
 .header{
-  background-color: cornflowerblue;
+  background-color: ;
   text-align: center;
 }
 .about-me {
@@ -11,7 +11,7 @@
   color: brown;
 }
 h1 {
-  color: azure;
+  color: brown;
 }
 body {
   font-family: Georgia;
@@ -61,4 +61,10 @@ body {
 
 p {
     color: white;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    background-color: black;
 }
